@@ -6,15 +6,6 @@
     "license": "Apache 2.0",
     "authors": [
         {
-            "name": "Evert Pot",
-            "email": "evert@rooftopsolutions.nl",
-            "homepage": "http://www.rooftopsolutions.nl/"
-        },
-        {
-            "name": "Stanislav Turza",
-            "email": "stanislav.turza@gmail.com"
-        },
-        {
             "name": "Yasmany Cubela Medina",
             "email": "yasmanycm@gmail.com"
         }
