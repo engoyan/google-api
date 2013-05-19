@@ -15,8 +15,6 @@
         "ext-curl" : "*"
     },
     "autoload": {
-        "psr-0": {
-            "GoogleApi": "src"
-        }
+        "classmap": ["src"]
     }
 }
