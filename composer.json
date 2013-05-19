@@ -2,7 +2,7 @@
     "name": "bitgandtter/google-api",
     "type": "library",
     "description": "Google API library for PHP",
-    "keywords": ["google","gdata"],
+    "keywords": ["google","api"],
     "license": "Apache 2.0",
     "authors": [
         {
